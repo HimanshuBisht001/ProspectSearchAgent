@@ -1,0 +1,242 @@
+[
+  {
+    "company_name": "Ziprecruiter",
+    "domain": "ziprecruiter.com",
+    "revenue": 30602627,
+    "industry": "Software",
+    "employee_count": 253,
+    "location": "United States",
+    "funding_stage": "Series A",
+    "contacts": [
+      {
+        "name": "Katie Sweet",
+        "title": "Director of Payroll and Benefits",
+        "email": "katie.sweet@ziprecruiter.com",
+        "linkedin": "https://www.linkedin.com/in/katie-sweet-219926275",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Taylor Buckholz",
+        "title": "Creative Director",
+        "email": "taylor.buckholz@ziprecruiter.com",
+        "linkedin": "https://www.linkedin.com/in/taylor-buckholz-22b6627",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Tim Bottomley",
+        "title": "Global Account Director",
+        "email": "tim.bottomley@ziprecruiter.com",
+        "linkedin": "https://www.linkedin.com/in/tbottomley",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "John Montgomery",
+        "title": "Senior Director, Product Management",
+        "email": "johnm@ziprecruiter.com",
+        "linkedin": "https://www.linkedin.com/in/john-montgomery-34b3ba109",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Ben M",
+        "title": "Senior Director of Engineering",
+        "email": "benm@ziprecruiter.com",
+        "linkedin": "https://www.linkedin.com/in/ben-m-83585833",
+        "confidence": 0.99,
+        "hunter_verified": true
+      }
+    ],
+    "signals": {
+      "recent_hiring": true,
+      "new_funding": false,
+      "funding_amount": 0.0,
+      "job_title": "Data Analyst Jobs Near Me",
+      "job_posted": "Recently",
+      "work_from_home": false
+    },
+    "source": [
+      "Google Search Jobs"
+    ],
+    "confidence": 0.5,
+    "tech_stack": [
+      "R"
+    ],
+    "smart_enriched": true
+  },
+  {
+    "company_name": "Revature",
+    "domain": "revature.com",
+    "revenue": 28619640,
+    "industry": "Software",
+    "employee_count": 168,
+    "location": "United States",
+    "funding_stage": "Series A",
+    "contacts": [
+      {
+        "name": "Gabriel Kumar",
+        "title": "Associate Director",
+        "email": "gabriel.kumar@revature.com",
+        "linkedin": "https://www.linkedin.com/in/gabrielsanthosh",
+        "confidence": 0.94,
+        "hunter_verified": true
+      },
+      {
+        "name": "Wasim Khalique",
+        "title": "Sales Director",
+        "email": "wasim.khalique@revature.com",
+        "linkedin": "https://www.linkedin.com/in/wasimkhalique",
+        "confidence": 0.94,
+        "hunter_verified": true
+      },
+      {
+        "name": "Colin Jones",
+        "title": "Director of Business Development",
+        "email": "colin.jones@revature.com",
+        "linkedin": "https://www.linkedin.com/in/colin-jones-52b9b5126",
+        "confidence": 0.94,
+        "hunter_verified": true
+      },
+      {
+        "name": "Gopalakrishnan Narayanan",
+        "title": "Executive Director",
+        "email": "gopalakrishnan.narayanan@revature.com",
+        "linkedin": "https://www.linkedin.com/in/gopalakrishnan-narayanan-5452b2225",
+        "confidence": 0.94,
+        "hunter_verified": true
+      },
+      {
+        "name": "Ankush Datta",
+        "title": "Sales Director",
+        "email": "ankush.datta@revature.com",
+        "linkedin": "https://www.linkedin.com/in/ankush-datta-b28441224",
+        "confidence": 0.94,
+        "hunter_verified": true
+      }
+    ],
+    "signals": {
+      "recent_hiring": true,
+      "new_funding": false,
+      "funding_amount": 0.0,
+      "job_title": "Entry level Software Engineer",
+      "job_posted": "Recently",
+      "work_from_home": false
+    },
+    "source": [
+      "Google Search Jobs"
+    ],
+    "confidence": 0.5,
+    "tech_stack": [
+      "R"
+    ],
+    "smart_enriched": true
+  },
+  {
+    "company_name": "Indeed",
+    "domain": "indeed.com",
+    "revenue": 145770774,
+    "industry": "Data & Analytics",
+    "employee_count": 786,
+    "location": "United States",
+    "funding_stage": "Series A",
+    "contacts": [
+      {
+        "name": "Stefanie Ruppel",
+        "title": "Director of Customer Success",
+        "email": "sruppel@indeed.com",
+        "linkedin": "https://www.linkedin.com/in/stefanie-ruppel-94ab1117",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Anthony Rossano",
+        "title": "Senior Director of Financial Planning and Analysis",
+        "email": "arossano@indeed.com",
+        "linkedin": "https://www.linkedin.com/in/ajrossano",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Matt Tomlinson",
+        "title": "Director of Product Management",
+        "email": "mtomlinson@indeed.com",
+        "linkedin": "https://www.linkedin.com/in/matthewtomlinson",
+        "confidence": 0.99,
+        "hunter_verified": true
+      },
+      {
+        "name": "Dustin Friesenhahn",
+        "title": "Senior Director of Product Management",
+        "email": "dustinf@indeed.com",
+        "linkedin": "https://www.linkedin.com/in/dustinfr",
+        "confidence": 0.99,
+        "hunter_verified": true
+      }
+    ],
+    "signals": {
+      "recent_hiring": true,
+      "new_funding": false,
+      "funding_amount": 0.0,
+      "job_title": "Data Analyst Jobs, Employment",
+      "job_posted": "Recently",
+      "work_from_home": false
+    },
+    "source": [
+      "Google Search Jobs"
+    ],
+    "confidence": 0.3,
+    "tech_stack": [],
+    "smart_enriched": true
+  },
+  {
+    "company_name": "Dice",
+    "domain": "dice.com",
+    "revenue": 41252610,
+    "industry": "Data & Analytics",
+    "employee_count": 399,
+    "location": "United States",
+    "funding_stage": "Series B",
+    "contacts": [
+      {
+        "name": "Megan Ratcliff",
+        "title": "Senior Director of Marketing",
+        "email": "megan.ratcliff@dice.com",
+        "linkedin": "https://www.linkedin.com/in/megan-ratcliff-16947815",
+        "confidence": 0.98,
+        "hunter_verified": true
+      },
+      {
+        "name": "Sarah Sunhill",
+        "title": "Director of Human Resources",
+        "email": "sarahs@dice.com",
+        "linkedin": "https://www.linkedin.com/in/sarah-sunhill-a2783b107",
+        "confidence": 0.98,
+        "hunter_verified": true
+      },
+      {
+        "name": "John Benson",
+        "title": "Managing Director",
+        "email": "john.benson@dice.com",
+        "linkedin": "https://www.linkedin.com/in/john-benson-71710080",
+        "confidence": 0.98,
+        "hunter_verified": true
+      }
+    ],
+    "signals": {
+      "recent_hiring": true,
+      "new_funding": false,
+      "funding_amount": 0.0,
+      "job_title": "data scientist jobs",
+      "job_posted": "Recently",
+      "work_from_home": false
+    },
+    "source": [
+      "Google Search Jobs"
+    ],
+    "confidence": 0.3,
+    "tech_stack": [],
+    "smart_enriched": true
+  }
+]

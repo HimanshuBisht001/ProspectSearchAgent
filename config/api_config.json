@@ -1,0 +1,17 @@
+{
+  "serpapi": {
+    "base_url": "https://serpapi.com/search.json",
+    "api_key": "${SERPAPI_API_KEY}",
+    "description": "Google Jobs search for finding companies"
+  },
+  "clearbit": {
+    "base_url": "https://company.clearbit.com/v2",
+    "api_key": "${CLEARBIT_API_KEY}",
+    "description": "Company enrichment data (replaces Apollo)"
+  },
+  "hunter": {
+    "base_url": "https://api.hunter.io/v2",
+    "api_key": "${HUNTER_API_KEY}",
+    "description": "Email finding and verification"
+  }
+}

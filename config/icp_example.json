@@ -1,0 +1,13 @@
+{
+    "revenue_min": 20000000,
+    "revenue_max": 200000000,
+    "industry": ["B2B Software", "FinTech"],
+    "geography": ["USA"],
+    "employee_count_min": 100,
+    "keywords": ["AI", "data analytics", "automation", "machine learning"],
+    "signals": {
+      "funding": true,
+      "hiring_data_roles": true,
+      "tech_stack": ["Snowflake", "AWS"]
+    }
+  }
